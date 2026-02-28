@@ -42,7 +42,7 @@ The system consists of the following layers:
 
     4. Output Layer
        -Displays generated artifacts
-       -Saves timestamped files automatically
+       -Saves files automatically
 
 
 🔁 Application Flow
