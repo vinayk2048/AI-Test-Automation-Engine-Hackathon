@@ -9,7 +9,7 @@ class TestCaseGenerator:
         prompt = f"""
         You are a senior QA engineer.
 
-        Generate detailed structured test cases for:
+        Generate detailed structured positive, negative and edge test cases for:
 
         {user_story}
 
